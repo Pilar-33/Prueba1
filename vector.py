@@ -1,0 +1,1 @@
+print("La suma de: 2 + 4 = "+str(2+4))
